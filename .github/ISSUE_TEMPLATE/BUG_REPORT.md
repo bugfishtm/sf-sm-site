@@ -3,8 +3,7 @@ name: Bug Report
 about: Report a problem with the project.
 title: "[BUG] Short description of the issue"
 labels: bug
-assignees: ''
-
+assignees: 'bugfishtm'
 ---
 
 ## Describe the bug

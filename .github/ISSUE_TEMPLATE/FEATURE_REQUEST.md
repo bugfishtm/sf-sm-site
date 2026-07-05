@@ -3,8 +3,7 @@ name: Feature Request
 about: Suggest a new feature or improvement for this project.
 title: "[FEATURE] Short description of the feature"
 labels: enhancement
-assignees: ''
-
+assignees: 'bugfishtm'
 ---
 
 ## Describe the solution you'd like

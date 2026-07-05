@@ -3,7 +3,7 @@ name: Question
 about: Ask a question about the project.  
 title: "[QUESTION] Short description of your question"  
 labels: question  
-assignees: ''  
+assignees: 'bugfishtm'
 ---
 
 ## Question  
